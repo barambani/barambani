@@ -1481,7 +1481,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 7.20k out of 383m repositories</span>
+                                    <span class="gh">ranked 7.21k out of 383m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">4867</div>
                                     </div>
@@ -1871,7 +1871,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10 Mar 2023, 21:16:26 (timezone Europe/London) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 10 Mar 2023, 22:18:13 (timezone Europe/London) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
